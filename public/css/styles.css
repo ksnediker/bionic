@@ -1,0 +1,82 @@
+#header {
+	display: inline-block;
+	background-color: gray;
+	padding-top: 25px;
+}
+
+#logo {
+	padding-left: 20px;
+}
+
+#name{
+	margin-bottom: 0px;
+}
+
+#logotext {
+	font-size: 14pt;
+}
+
+#login {
+	padding-left: 70px;
+}
+
+#search {
+	margin-top: 30px;
+}
+
+#tip{
+	text-align: center;
+	margin-top: 10px;
+}
+
+#tippic {
+	max-height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#navbar {
+	background-color: gray;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	padding: 20px;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#peer{
+	padding-left: 0px;
+}
+
+#expert{
+	padding-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
