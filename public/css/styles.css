@@ -1,6 +1,6 @@
 #header {
 	display: inline-block;
-	background-color: gray;
+	background-color: #E5EAFA;
 	padding-top: 25px;
 }
 
@@ -39,10 +39,11 @@
 }
 
 #navbar {
-	background-color: gray;
+	background-color: #E5EAFA;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 ul {
@@ -56,6 +57,11 @@ li {
 	padding: 20px;
 	cursor: pointer;
 	text-decoration: underline;
+	color: #1EAEDB;
+}
+
+li:hover {
+  color: #0FA0CE; 
 }
 
 #peer{
@@ -66,10 +72,49 @@ li {
 	padding-right: 0px;
 }
 
+#connectw{
+	margin-left: 0px;
+	margin-bottom: 15px;
+	padding-left: 110px;
+}
 
+#content{
+	margin-left: 0px;
+}
 
+#post{
+	margin-top: 25px;
+}
 
+.postimg{
+	height: 155px;
+	width: 155px;
+}
 
+#headline {
+	font-weight: bold;
+}
+
+#contact{
+	margin-left: 100px;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-width: 1px; 
+}
+
+.contactbutton {
+	margin-top: 5px;
+	margin-left: 80px;
+}
+
+#appt{
+	margin-bottom: 15%;
+}
+
+#logprompt{
+	text-align: center;
+	background-color: #E5EAFA;
+}
 
 
 
