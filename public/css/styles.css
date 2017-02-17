@@ -22,11 +22,15 @@
 }
 
 #login {
-	padding-left: 68px;
+	padding-left: 40px;
 }
 
 #search {
 	margin-top: 30px;
+}
+
+#input{
+	width: 135px;
 }
 
 #tip{
@@ -114,6 +118,27 @@ li:hover {
 
 #appt{
 	margin-bottom: 15%;
+}
+
+#industrymenu {
+	margin-left: 90px;
+	margin-top: 25px;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-width: 1px; 
+}
+
+#searchi {
+	margin-left: 25px;
+}
+
+#dropdown {
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.ilist{
+	padding: 15px;
 }
 
 #logprompt{
